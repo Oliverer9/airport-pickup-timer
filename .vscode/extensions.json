@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "stylelint.vscode-stylelint",
+    "ms-playwright.playwright",
+    "deque-systems.vscode-axe-linter",
+    "anthropic.claude-code"
+  ]
+}
